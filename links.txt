@@ -1,0 +1,14 @@
+links.txt
+Created November 23, 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+X Window System (X11, or simply X) related links
+
+
+Links
+=====
+X Window System - Wikipedia
+https://en.wikipedia.org/wiki/X_Window_System
+
+
