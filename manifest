@@ -9,4 +9,6 @@
 # ----------------------------------------------------
 # Source                                        Target
 # ----------------------------------------------------
-ssl://git@github.com/marcilr/mobaxterm.git   mobaxterm
+ssh://git@github.com/marcilr/mobaxterm.git   mobaxterm
+
+
