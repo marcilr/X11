@@ -3,9 +3,10 @@
 # by Raymond E. Marcil <marcilr@gmail.com>
 #
 # Manifest file for use by resync script.
+#
 
 
-# -------------------------------------------------------
-# Source                                           Target
-# -------------------------------------------------------
-https://github.com/marcilr/mobaxterm.git        mobaxterm
+# ----------------------------------------------------
+# Source                                        Target
+# ----------------------------------------------------
+ssl://git@github.com/marcilr/mobaxterm.git   mobaxterm
