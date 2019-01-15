@@ -1,0 +1,10 @@
+#.gitignore
+# Created Tue Jan 15 13:31:39 AKST 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+digital-blasphemy/
+mobaxterm/
+
