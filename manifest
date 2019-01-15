@@ -9,5 +9,5 @@
 # ----------------------------------------------------------------
 # Source                                                    Target
 # ----------------------------------------------------------------
-ssh://git@github.com/marcilr/digital=blasphemy   digital-blasphemy
+ssh://git@github.com/marcilr/digital-blasphemy   digital-blasphemy
 ssh://git@github.com/marcilr/mobaxterm.git       mobaxterm
