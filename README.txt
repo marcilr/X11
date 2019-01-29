@@ -5,6 +5,9 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+conf/
+  Configuration
+
 links.txt
   X Window System (X11, or simply X) related links
 
