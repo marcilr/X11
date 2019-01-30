@@ -6,5 +6,7 @@
 #
 .gitignore
 digital-blasphemy/
+docs/
 mobaxterm/
+syntax/
 xfce/
