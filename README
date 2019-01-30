@@ -8,9 +8,31 @@ Filelist
 conf/
   Configuration
 
+digital-blasphemy/
+  Digital Blasphemy
+  Collection of fine digital wallpaper
+  http://digitalblasphemy.com/
+
+docs/
+  Documentation
+
 links.txt
   X Window System (X11, or simply X) related links
 
 x11.txt
   X Window System (X11, or simply X)
   https://en.wikipedia.org/wiki/X_Window_System
+
+links.txt
+  X11 related links
+
+manifest
+  Manifest file for use by resync script
+
+mobaxterm/
+  
+
+x11.txt
+
+xfce/
+
