@@ -31,8 +31,28 @@ manifest
 
 mobaxterm/
   
+syntax/
+  Syntax
 
 x11.txt
+  The X Window System (X11, or simply X) is a windowing system
+  for bitmap displays, common on Unix-like operating systems.
+  X provides the basic framework for a GUI environment: drawing
+  and moving windows on the display device and interacting with
+  a mouse and keyboard.
+  --https://en.wikipedia.org/wiki/X_Window_System
 
 xfce/
+  Xfce is a lightweight desktop environment for UNIX-like operating
+  systems.  It aims to be fast and low on system resources, while
+  still being visually appealing and user friendly.
+  --https://www.xfce.org/
 
+
+Links
+=====
+What is the x11?
+https://en.wikipedia.org/wiki/X_Window_System
+
+Xfce Desktop Environment
+https://www.xfce.org/
