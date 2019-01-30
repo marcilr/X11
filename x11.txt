@@ -3,11 +3,12 @@ Created November 23, 2018
 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-The X Window System (X11, or simply X) is a windowing system for
-bitmap displays, common on Unix-like operating systems.  X provides
-the basic framework for a GUI environment: drawing and moving
-windows on the display device and interacting with a mouse and
-keyboard.
+The X Window System (X11, or simply X) is a windowing system
+for bitmap displays, common on Unix-like operating systems.
+X provides the basic framework for a GUI environment: drawing
+and moving windows on the display device and interacting with
+a mouse and keyboard.
+--https://en.wikipedia.org/wiki/X_Window_System
 
 
 Links
